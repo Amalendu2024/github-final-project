@@ -1,0 +1,4 @@
+$ git branch -vv
+  bug-fix-revert  f2e3d4c [origin/bug-fix-revert] Initial commit for revert task
+  bug-fix-typo    b4e9d2f [origin/bug-fix-typo] Fix typo in README
+* main            9d4e5f6 [origin/main] Merge branch 'bug-fix-typo'
